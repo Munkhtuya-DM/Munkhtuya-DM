@@ -3,10 +3,9 @@
 
 # 👋 Hi, I'm Munkhtuya
 
-Welcome to my Data Analyst Portfolio! <br>I specialize in transforming data into actionable insights that drive strategic decision-making.<br><br>
+Welcome to my Data Analyst Portfolio! <br>I specialize in transforming data into actionable insights that drive strategic decision-making.
 
 ---
-
 # 🚀 What I Do
 * Data Visualization – Crafting interactive dashboards & reports using Power BI & Tableau.
 * Statistical Analysis – Uncovering trends to support data-driven decisions.   
