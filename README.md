@@ -6,13 +6,16 @@
 Welcome to my Data Analyst Portfolio! <br>I specialize in transforming data into actionable insights that drive strategic decision-making.<br><br>
 
 # 🚀 What I Do
-<br><br>    Data Visualization – Crafting interactive dashboards & reports using Power BI & Tableau.<br>    Statistical Analysis – Uncovering trends to support data-driven decisions.<br>    Data Modeling – Designing robust models to solve complex business challenges.<br>    Healthcare Analytics – Leveraging data insights to improve patient outcomes.<br>    Ask Me About -  Databases , Problem-Solving<br>    Fun Fact -  I love solving puzzles and exploring new technologies!<br><br><br><br> 
-
+* Data Visualization – Crafting interactive dashboards & reports using Power BI & Tableau.
+* Statistical Analysis – Uncovering trends to support data-driven decisions.   
+* Modeling – Designing robust models to solve complex business challenges.
+* Healthcare Analytics – Leveraging data insights to improve patient outcomes.
+* Ask Me About -  Databases , Problem-Solving
+* Fun Fact -  I love solving puzzles and exploring new technologies!
 
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/munkhtuya-dashnyam) 
-
 
 # 💻 Tech Stack:
 
