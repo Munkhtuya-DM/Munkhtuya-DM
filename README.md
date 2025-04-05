@@ -1,9 +1,15 @@
+
+![git hub image](https://github.com/user-attachments/assets/ace0c09e-7511-42e1-b5a9-a82634d21f54)
+
 # 💫 About Me:
 
-Welcome to my Data Analyst Portfolio! <br>I specialize in transforming data into actionable insights that drive strategic decision-making.<br><br>What I Do<br><br>    Data Visualization – Crafting interactive dashboards & reports using Power BI & Tableau.<br>    Statistical Analysis – Uncovering trends to support data-driven decisions.<br>    Data Modeling – Designing robust models to solve complex business challenges.<br>    Healthcare Analytics – Leveraging data insights to improve patient outcomes.<br>    Ask Me About -  Databases , Problem-Solving<br>    Fun Fact -  I love solving puzzles and exploring new technologies!<br><br><br><br> 
+Welcome to my Data Analyst Portfolio! <br>I specialize in transforming data into actionable insights that drive strategic decision-making.<br><br>
+
+# 🚀 What I Do
+<br><br>    Data Visualization – Crafting interactive dashboards & reports using Power BI & Tableau.<br>    Statistical Analysis – Uncovering trends to support data-driven decisions.<br>    Data Modeling – Designing robust models to solve complex business challenges.<br>    Healthcare Analytics – Leveraging data insights to improve patient outcomes.<br>    Ask Me About -  Databases , Problem-Solving<br>    Fun Fact -  I love solving puzzles and exploring new technologies!<br><br><br><br> 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/munkhtuya-dashnyam) 
 
