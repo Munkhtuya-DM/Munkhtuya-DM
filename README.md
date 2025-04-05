@@ -1,7 +1,7 @@
 
 ![git hub image](https://github.com/user-attachments/assets/ace0c09e-7511-42e1-b5a9-a82634d21f54)
 
-# 💫 About Me:
+# 👋 Hi, I'm Munkhtuya
 
 Welcome to my Data Analyst Portfolio! <br>I specialize in transforming data into actionable insights that drive strategic decision-making.<br><br>
 
