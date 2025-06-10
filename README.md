@@ -1,3 +1,5 @@
+![git hub image](https://github.com/user-attachments/assets/ace0c09e-7511-42e1-b5a9-a82634d21f54)
+
 ## 💫 Hi 👋 I'm  Munkhtuya
 
    Welcome to my portfolio!
