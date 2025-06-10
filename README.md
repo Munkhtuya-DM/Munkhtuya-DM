@@ -34,13 +34,9 @@
 
 
 
-# 🎓 Certifications
-
-- [IBM Data Analyst Professional Certificate (Coursera)](https://coursera.org/share/3db870ac439cf8c35fabc105ee0ecefb)
-  
-- [Google Data Analytics Professional Certificate (Coursera)](https://coursera.org/share/ad4c533588dc81d111587d33b730e753)
 
 
+[# 🎓 Certifications](https://github.com/Munkhtuya-DM/Certification.git)
 <!-- Add more certifications here as you earn them! -->
 
 
