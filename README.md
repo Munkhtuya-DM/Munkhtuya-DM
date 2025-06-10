@@ -1,18 +1,25 @@
 ![git hub image](https://github.com/user-attachments/assets/ace0c09e-7511-42e1-b5a9-a82634d21f54)
 
-# 👋 Hi, I'm Munkhtuya
+# 👋 Hi there, I am Munkhtuya (Mugi)
+
+<img src="https://komarev.com/ghpvc/?username=Nara-B&color=2f7a27&style=flat-square" width="150">
+
+
+
 
 Welcome to my Data Analyst Portfolio! 
 <br>I specialize in transforming data into actionable insights that drive strategic decision-making.
 
 ---
 ## 🚀 What I Do
-* Data Visualization – Creating interactive dashboards & reports using Power BI & Tableau.
-* Statistical Analysis – Uncovering trends to support data-driven decisions.   
-* Modeling – Designing robust models to solve complex business challenges.
-* Data Analytics – Leveraging data insights to improve patient outcomes.
-* Ask Me About -  Database, Problem-Solving
-* Fun Fact -  I love solving puzzles and exploring new technologies!
+
+- **Data Visualization** – Creating interactive dashboards and reports using Power BI and Tableau.
+- **Statistical Analysis** – Uncovering trends to support data-driven decisions.
+- **Modeling** – Designing robust models to solve complex business challenges.
+- **Data Analytics** – Leveraging data insights to drive better outcomes.
+- **Ask Me About:** Databases and problem-solving.
+- **Fun Fact:** I love solving puzzles and exploring new technologies!
+
 
   
 ---
@@ -39,13 +46,11 @@ Welcome to my Data Analyst Portfolio!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Munkhtuya-DM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Munkhtuya-DM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munkhtuya-DM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 
-# [🎓 Certifications](https://github.com/Munkhtuya-DM/Certification.git)
+## [Certifications](https://github.com/Munkhtuya-DM/Certification.git)
 <!-- Add more certifications here as you earn them! -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
